@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EM6ln0C69FH+HVZ0HgP49DVB20R92uf1LlO0LMVLG2UlxxcuFtDm9z+DpVZ/HpYWVt2n9CoMK/p/FyLea2T0A==",
+  "dgSpecHash": "DE6xOdORG3+wj8gD4u6kw42ggQq+E1FRZJVUqC+75tMf2SLXhcQyaNLBj03CDhmrX/SPnIkc4HTBMxLkpKhQPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\PRN221_Project-main\\ProjectPRN221.csproj",
+  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\PRN221_QuanLyKho\\ProjectPRN221.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
